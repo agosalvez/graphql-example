@@ -1,0 +1,41 @@
+# Dependencias
+/node_modules
+
+# Archivos de construcción
+/build
+/dist
+
+# Archivos de configuración
+.env
+
+# Logs y archivos temporales
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Carpetas específicas de sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Carpetas de cobertura de pruebas
+/coverage
+
+# Archivos de configuración de Visual Studio Code
+.vscode
+
+# Archivos de configuración de WebStorm
+.idea
+
+# Archivos de configuración de npm
+.npmrc
+
+# Carpeta generada por create-react-app
+/public
+
+# Archivos de bloqueo
+*.swp
+*.swo
+
+# Carpetas de compilación TypeScript
+/out

@@ -1,0 +1,72 @@
+const persons = [
+	{
+		name: 'Ana',
+		phone: '+34 91 123 45 67', // Número de teléfono fijo en España
+		street: 'Calle Gran Vía, 123',
+		city: 'Madrid',
+		id: '3f5b5d0b-6e57-4f91-8471-2c8c0b3c2e9a'
+	},
+	{
+		name: 'Carlos',
+		phone: '+34 622 34 56 78', // Número de teléfono móvil en España
+		street: 'Calle Alcalá, 456',
+		city: 'Barcelona',
+		id: '6b8b165b-fc65-4b5b-b6a8-85d667e05c91'
+	},
+	{
+		name: 'Elena',
+		phone: '+34 91 789 01 23',
+		street: 'Avenida Diagonal, 789',
+		city: 'Valencia',
+		id: 'ac55df1a-86e8-4b13-91ea-bb81a3e42c52'
+	},
+	{
+		name: 'Fernando',
+		phone: '+34 654 32 10 98',
+		street: 'Calle Mayor, 234',
+		city: 'Sevilla',
+		id: 'd6f9a2c7-0ff4-4e43-bf9e-84691a9e0e90'
+	},
+	{
+		name: 'Isabel',
+		phone: '+34 91 210 43 21',
+		street: 'Plaza España, 567',
+		city: 'Barcelona',
+		id: 'eb42a2aa-1c95-42c7-8f63-141652f54f0e'
+	},
+	{
+		name: 'Javier',
+		phone: '+34 910 98 76 54',
+		street: 'Calle Serrano, 876',
+		city: 'Madrid',
+		id: '2e9a1a58-3e1b-4424-97c8-63e1a5165f13'
+	},
+	{
+		name: 'Luisa',
+		phone: '+34 93 543 21 09',
+		street: 'Paseo de Gracia, 345',
+		city: 'Valencia',
+		id: 'c23db5fc-2b91-4bd7-9389-4569e80d5507'
+	},
+	{
+		name: 'Manuel',
+		phone: '+34 666 12 34 56',
+		street: 'Calle del Prado, 678',
+		city: 'Sevilla',
+		id: '9b8e3dc8-7e1b-4e5d-91a8-3c6780a9bace'
+	},
+	{
+		name: 'Natalia',
+		phone: '+34 91 432 10 98',
+		street: 'Calle Laurel, 123',
+		city: 'Barcelona',
+		id: '7f5e2a91-4c8e-412b-9a45-654df8a5c72e'
+	},
+	{
+		name: 'Óscar',
+		phone: '+34 93 876 54 32',
+		street: 'Avenida del Parque, 456',
+		city: 'Madrid',
+		id: '4b1c3f9d-775f-4e6f-92f7-63cb48d0fc1b'
+	}
+]

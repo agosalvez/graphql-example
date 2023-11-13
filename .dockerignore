@@ -1,0 +1,28 @@
+# Archivos y carpetas generados por Node.js
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Archivos de construcción
+build
+dist
+
+# Carpetas específicas de sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Carpetas de cobertura de pruebas
+coverage
+
+# Archivos de configuración
+*.env
+
+# Carpetas de desarrollo local
+.vscode
+.idea
+
+# Carpetas específicas de Docker
+.docker
+
+# Otros archivos y carpetas no deseados
+*.log
